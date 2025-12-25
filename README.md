@@ -11,7 +11,7 @@ working in <b>full-stack web development</b> and exploring
 ---
 ## 🌐 Connect
 <p>
-  <a href="www.linkedin.com/in/aryan-kumar-arya-84a61628b">
+  <a href="https://www.linkedin.com/in/aryan-kumar-arya-84a61628b/">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="32"/>
   </a>&nbsp;
   <a href="https://github.com/AryanKumarArya007">
