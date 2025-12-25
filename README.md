@@ -1,7 +1,7 @@
 <h1 style="color:#00E5FF;">Hi 👋, I'm Aryan Kumar Arya</h1>
 
 <p style="color:#B388FF;">
-Computer Science and Engineering student at <b>NIT Patna</b> (Dual Degree – Data Science),  
+Computer Science and Engineering student at <b>National Institute of Technology, Patna</b>   
 working in <b>full-stack web development</b> and exploring  
 <b>ML, DL, NLP, and LLMs</b>, backed by strong core CS fundamentals.
 </p>
@@ -9,35 +9,36 @@ working in <b>full-stack web development</b> and exploring
 📫 <b>Email:</b> <span style="color:#00E676;">aryankumararya2026@gmail.com</span>
 
 ---
-
 ## 🌐 Connect
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
+  <a href="www.linkedin.com/in/aryan-kumar-arya-84a61628b">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="32"/>
   </a>&nbsp;
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
+  <a href="https://github.com/AryanKumarArya007">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="32"/>
   </a>&nbsp;
-  <a href="https://instagram.com/YOUR_INSTAGRAM">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg"
-         width="30"
-         style="filter: invert(1);"/>
+  <a href="https://www.instagram.com/__ryaaaan.__/?next=%2F&hl=en">
+    <img src="https://img.icons8.com/color/48/instagram-new.png" width="32"/>
   </a>&nbsp;
   <a href="https://x.com/YOUR_X_HANDLE">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg"
-         width="30"
-         style="filter: invert(1);"/>
+    <img src="https://img.icons8.com/color/48/twitterx--v1.png" width="32"/>
   </a>
 </p>
+
+
+
 
 ---
 
 <p>
-  <img
-    src="https://github.com/AryanKumarArya007/AryanKumarArya007/blob/main/banner.jpg"
+  <img 
+    src="https://github.com/AryanKumarArya007/AryanKumarArya007/blob/main/developer.jpg"
     width="100%"
+    height="400"
+    style="object-fit: cover;"
   />
 </p>
+
 
 ---
 
@@ -73,16 +74,17 @@ working in <b>full-stack web development</b> and exploring
 ## 📊 GitHub Overview
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanKumarArya007&layout=donut&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanKumarArya007&theme=github-dark&hide_border=true"/>
 </p>
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AryanKumarArya007&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AryanKumarArya007&theme=github_dark"/>
 </p>
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AryanKumarArya007&theme=tokyonight&utcOffset=5.5"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AryanKumarArya007&theme=github_dark&utcOffset=5.5"/>
 </p>
+
 
 ---
 
