@@ -1,12 +1,12 @@
-<h1 style="color:#00E5FF;">Hi 👋, I'm Aryan Kumar Arya</h1>
+<h1 style="color:#9B5DE5;">Hi 👋, I'm Aryan Kumar Arya</h1>
 
-<p style="color:#B388FF;">
+<p style="color:#CDB4DB;">
 Computer Science and Engineering student at <b>National Institute of Technology, Patna</b>   
 working in <b>full-stack web development</b> and exploring  
 <b>ML, DL, NLP, and LLMs</b>, backed by strong core CS fundamentals.
 </p>
 
-📫 <b>Email:</b> <span style="color:#00E676;">aryankumararya2026@gmail.com</span>
+📫 <b>Email:</b> <span style="color:#B5179E;">aryankumararya2026@gmail.com</span>
 
 ---
 ## 🌐 Connect
@@ -25,9 +25,6 @@ working in <b>full-stack web development</b> and exploring
   </a>
 </p>
 
-
-
-
 ---
 
 <p>
@@ -38,7 +35,6 @@ working in <b>full-stack web development</b> and exploring
     style="object-fit: cover;"
   />
 </p>
-
 
 ---
 
@@ -74,17 +70,16 @@ working in <b>full-stack web development</b> and exploring
 ## 📊 GitHub Overview
 
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanKumarArya007&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanKumarArya007&theme=react-dark&color=9B5DE5&line=9B5DE5&point=C77DFF&hide_border=true"/>
 </p>
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AryanKumarArya007&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AryanKumarArya007&theme=dracula"/>
 </p>
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AryanKumarArya007&theme=github_dark&utcOffset=5.5"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AryanKumarArya007&theme=dracula&utcOffset=5.5"/>
 </p>
-
 
 ---
 
@@ -98,7 +93,7 @@ working in <b>full-stack web development</b> and exploring
 
 <p>
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7C4DFF,100:00E676&height=120&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,50:9D4EDD,100:C77DFF&height=120&section=footer"
     width="100%"
   />
 </p>
