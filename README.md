@@ -14,18 +14,19 @@ working in <b>full-stack web development</b> and exploring
 <p>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
-  </a>
-  &nbsp;
+  </a>&nbsp;
   <a href="https://github.com/YOUR_USERNAME">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
-  </a>
-  &nbsp;
+  </a>&nbsp;
   <a href="https://instagram.com/YOUR_INSTAGRAM">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="30"/>
-  </a>
-  &nbsp;
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg"
+         width="30"
+         style="filter: invert(1);"/>
+  </a>&nbsp;
   <a href="https://x.com/YOUR_X_HANDLE">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg"
+         width="30"
+         style="filter: invert(1);"/>
   </a>
 </p>
 
@@ -33,7 +34,7 @@ working in <b>full-stack web development</b> and exploring
 
 <p>
   <img
-    src="https://in.pinterest.com/pin/4925880832354073.gif"
+    src="https://github.com/AryanKumarArya007/AryanKumarArya007/blob/main/banner.jpg"
     width="100%"
   />
 </p>
