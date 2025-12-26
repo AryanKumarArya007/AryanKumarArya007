@@ -3,7 +3,7 @@
 <p style="color:#CDB4DB;">
 Computer Science and Engineering student at <b>National Institute of Technology, Patna</b>   
 working in <b>full-stack web development</b> and exploring  
-<b>ML, DL, NLP, and LLMs</b>, backed by strong core CS fundamentals.
+<b>ML, DL, NLP, and LLMs</b>, backed by strong core CS fundamentals.I am also active in hackathons and open source contributions(Smart India Hackathon 2025 Finalist).
 </p>
 
 📫 <b>Email:</b> <span style="color:#B5179E;">aryankumararya2026@gmail.com</span>
