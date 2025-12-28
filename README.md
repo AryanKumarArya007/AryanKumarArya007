@@ -69,9 +69,9 @@ working in <b>full-stack web development</b> and exploring
 
 ## 📊 GitHub Overview
 
-<p>
+<!-- <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanKumarArya007&theme=react-dark&color=9B5DE5&line=9B5DE5&point=C77DFF&hide_border=true"/>
-</p>
+</p> -->
 
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AryanKumarArya007&theme=dracula"/>
